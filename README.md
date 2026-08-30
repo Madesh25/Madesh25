@@ -29,4 +29,4 @@ and banking platforms. Open to opportunities in Poland and the EU.
 
 ### Find me
 
-[madesh.online](https://madesh.online) · [LinkedIn](https://linkedin.com/in/madeshwaranm)
+[madesh.online](https://madesh.online) · [LinkedIn](https://linkedin.com/in/madesh-waran-m)
