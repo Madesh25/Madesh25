@@ -2,7 +2,7 @@
 
 ### DevOps Engineer · Kubernetes · Terraform · CI/CD
 
-Building and running cloud infrastructure across AWS, Azure and GCP. Currently at Xerago in Chennai, delivering on-premises to cloud migrations for enterprise MarTech and banking platforms — assessment through to cutover and post-migration validation.
+Building and running cloud infrastructure across AWS, Azure and GCP. Currently at Xerago in Chennai, delivering on-premises to cloud migrations for enterprise MarTech and banking platforms - assessment through to cutover and post-migration validation.
 
 Open to opportunities in Poland and the wider EU.
 
@@ -24,27 +24,27 @@ DevOps Engineer with 4+ years of professional experience, 3+ of them in DevOps. 
 | **Clouds** | AWS · Azure · GCP |
 | **Focus** | Cloud migrations, Kubernetes, IaC, CI/CD, observability |
 | **Location** | Chennai, India (UTC+05:30) |
-| **Availability** | Open to relocation — Poland and the EU |
+| **Availability** | Open to relocation - Poland and the EU |
 
 ---
 
 ## Tech stack
 
-**Cloud** — AWS · Azure · GCP
+**Cloud** - AWS · Azure · GCP
 
-**Kubernetes** — EKS · AKS · GKE · kubeadm · k3s
+**Kubernetes** - EKS · AKS · GKE · kubeadm · k3s
 
-**Containers** — Docker · Helm · Harbor
+**Containers** - Docker · Helm · Harbor
 
-**CI/CD & GitOps** — Jenkins · Azure DevOps · GitLab CI · Argo CD
+**CI/CD & GitOps** - Jenkins · Azure DevOps · GitLab CI · Argo CD
 
-**Infrastructure as code** — Terraform · Ansible
+**Infrastructure as code** - Terraform · Ansible
 
-**Observability** — Prometheus · Grafana · CloudWatch
+**Observability** - Prometheus · Grafana · CloudWatch
 
-**Systems & scripting** — Linux (RHEL, Ubuntu) · Proxmox · Bash · Python · Git
+**Systems & scripting** - Linux (RHEL, Ubuntu) · Proxmox · Bash · Python · Git
 
-**Databases** — Oracle · PostgreSQL · MySQL · MS SQL
+**Databases** - Oracle · PostgreSQL · MySQL · MS SQL
 
 ---
 
