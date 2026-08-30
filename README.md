@@ -1,16 +1,32 @@
-## Hi there 👋
+## Madeshwaran M
 
-<!--
-**Madesh25/Madesh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** — Kubernetes, Terraform, CI/CD across AWS, Azure and GCP.
 
-Here are some ideas to get you started:
+4+ years of professional experience, 3+ in DevOps. Currently at Xerago in
+Chennai, delivering on-premises to cloud migrations for enterprise MarTech
+and banking platforms. Open to opportunities in Poland and the EU.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+**Cloud** — AWS · Azure · GCP
+**Containers & Orchestration** — Kubernetes (EKS, AKS, GKE, kubeadm, k3s) · Docker · Helm · Harbor
+**CI/CD & GitOps** — Jenkins · Azure DevOps · GitLab CI · Argo CD
+**Infrastructure as Code** — Terraform · Ansible
+**Observability** — Prometheus · Grafana · CloudWatch
+**Systems** — Linux (RHEL, Ubuntu) · Proxmox · Bash · Python
+
+---
+
+### What I'm working on
+
+- Migrating enterprise MarTech platforms from on-premises to containerised cloud environments
+- Running a self-managed k3s cluster on Proxmox at home for testing deployments and pipelines
+- Studying for CKA
+
+---
+
+### Find me
+
+[madesh.online](https://madesh.online) · [LinkedIn](https://linkedin.com/in/madeshwaranm)
