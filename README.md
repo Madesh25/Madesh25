@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/devops-banner.svg" alt="Madeshwaran M - DevOps Engineer" width="100%">
+<img src="./devops-banner.svg" alt="Madeshwaran M - DevOps Engineer" width="100%">
 
 </div>
 
@@ -128,4 +128,4 @@ The goal is not to collect tools. The goal is to demonstrate that I can **build,
 CODE → AUTOMATE → MONITOR → IMPROVE → REPEAT
 ```
 
-</dive
+</div>
