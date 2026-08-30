@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="About Madeshwaran M">
+  <defs>
+    <pattern id="g2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#12261b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="250" rx="10" fill="#09090b"/>
+  <rect width="1000" height="250" rx="10" fill="url(#g2)"/>
+  <rect x="1" y="1" width="998" height="248" rx="10" fill="none" stroke="#00ff6a" stroke-opacity="0.35" stroke-width="2"/>
+
+  <text x="34" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#00ff6a">$ cat ~/about.md</text>
+  <line x1="34" y1="60" x2="640" y2="60" stroke="#00ff6a" stroke-opacity="0.3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#a1a1aa">
+    <text x="34" y="96">DevOps Engineer with <tspan fill="#00ff6a" font-weight="700">4+ years</tspan> of professional experience,</text>
+    <text x="34" y="120"><tspan fill="#00ff6a" font-weight="700">3+ in DevOps</tspan>, building and running cloud infrastructure</text>
+    <text x="34" y="144">on <tspan fill="#00d4ff">AWS</tspan>, <tspan fill="#00d4ff">Azure</tspan> and <tspan fill="#00d4ff">GCP</tspan>.</text>
+    <text x="34" y="182">Currently at <tspan fill="#00ff6a">Xerago</tspan> in Chennai, delivering on-premises to</text>
+    <text x="34" y="206">cloud migrations for enterprise MarTech and banking platforms</text>
+    <text x="34" y="230">— assessment through to cutover and post-migration validation.</text>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="660" y="78" width="150" height="62" rx="6" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.5"/>
+    <text x="678" y="108" font-size="24" font-weight="700" fill="#00ff6a">4+</text>
+    <text x="678" y="128" font-size="11" fill="#5c8c6f">YEARS EXPERIENCE</text>
+
+    <rect x="826" y="78" width="140" height="62" rx="6" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.5"/>
+    <text x="844" y="108" font-size="24" font-weight="700" fill="#00ff6a">3+</text>
+    <text x="844" y="128" font-size="11" fill="#5c8c6f">YEARS DEVOPS</text>
+
+    <rect x="660" y="152" width="150" height="62" rx="6" fill="#0d1420" stroke="#00d4ff" stroke-opacity="0.5"/>
+    <text x="678" y="180" font-size="15" font-weight="700" fill="#00d4ff">MULTI-CLOUD</text>
+    <text x="678" y="200" font-size="11" fill="#5c7c8c">AWS · AZURE · GCP</text>
+
+    <rect x="826" y="152" width="140" height="62" rx="6" fill="#0d1420" stroke="#00d4ff" stroke-opacity="0.5"/>
+    <text x="844" y="180" font-size="15" font-weight="700" fill="#00d4ff">POLAND / EU</text>
+    <text x="844" y="200" font-size="11" fill="#5c7c8c">OPEN TO RELOCATE</text>
+  </g>
+</svg>

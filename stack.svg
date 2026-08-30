@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-label="Tech stack">
+  <defs>
+    <pattern id="g3" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#12261b" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="400" rx="10" fill="#09090b"/>
+  <rect width="1000" height="400" rx="10" fill="url(#g3)"/>
+  <rect x="1" y="1" width="998" height="398" rx="10" fill="none" stroke="#00ff6a" stroke-opacity="0.35" stroke-width="2"/>
+
+  <text x="34" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="700" fill="#00ff6a">$ ls ~/stack/</text>
+  <line x1="34" y1="60" x2="640" y2="60" stroke="#00ff6a" stroke-opacity="0.3"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+
+    <text x="34" y="96" font-size="13" font-weight="700" fill="#00d4ff">CLOUD PLATFORMS</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="34" y="106" width="72" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="52" y="123">AWS</text>
+      <rect x="116" y="106" width="82" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="134" y="123">Azure</text>
+      <rect x="208" y="106" width="72" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="226" y="123">GCP</text>
+    </g>
+
+    <text x="34" y="164" font-size="13" font-weight="700" fill="#00d4ff">CONTAINERS &amp; ORCHESTRATION</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="34" y="174" width="112" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="52" y="191">Kubernetes</text>
+      <rect x="156" y="174" width="82" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="174" y="191">Docker</text>
+      <rect x="248" y="174" width="66" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="266" y="191">Helm</text>
+      <rect x="324" y="174" width="80" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="342" y="191">Harbor</text>
+    </g>
+    <text x="34" y="220" font-size="11" fill="#5c8c6f">EKS · AKS · GKE · kubeadm · k3s</text>
+
+    <text x="34" y="256" font-size="13" font-weight="700" fill="#00d4ff">CI/CD &amp; GITOPS</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="34" y="266" width="86" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="52" y="283">Jenkins</text>
+      <rect x="130" y="266" width="126" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="148" y="283">Azure DevOps</text>
+      <rect x="266" y="266" width="98" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="284" y="283">GitLab CI</text>
+      <rect x="374" y="266" width="88" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="392" y="283">Argo CD</text>
+    </g>
+
+    <text x="34" y="326" font-size="13" font-weight="700" fill="#00d4ff">INFRASTRUCTURE AS CODE</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="34" y="336" width="98" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="52" y="353">Terraform</text>
+      <rect x="142" y="336" width="84" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="160" y="353">Ansible</text>
+    </g>
+
+    <text x="560" y="96" font-size="13" font-weight="700" fill="#00d4ff">OBSERVABILITY</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="560" y="106" width="106" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="578" y="123">Prometheus</text>
+      <rect x="676" y="106" width="86" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="694" y="123">Grafana</text>
+      <rect x="772" y="106" width="112" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="790" y="123">CloudWatch</text>
+    </g>
+
+    <text x="560" y="164" font-size="13" font-weight="700" fill="#00d4ff">SYSTEMS &amp; SCRIPTING</text>
+    <g font-size="12" fill="#00ff6a">
+      <rect x="560" y="174" width="72" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="578" y="191">Linux</text>
+      <rect x="642" y="174" width="90" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="660" y="191">Proxmox</text>
+      <rect x="742" y="174" width="66" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="760" y="191">Bash</text>
+      <rect x="818" y="174" width="80" height="26" rx="4" fill="#0d1a12" stroke="#00ff6a" stroke-opacity="0.45"/><text x="836" y="191">Python</text>
+    </g>
+    <text x="560" y="220" font-size="11" fill="#5c8c6f">RHEL · Ubuntu · Git</text>
+
+    <text x="560" y="256" font-size="13" font-weight="700" fill="#00d4ff">WHAT I DO</text>
+    <g font-size="11.5" fill="#a1a1aa">
+      <text x="560" y="278">&gt; On-premises to cloud migrations</text>
+      <text x="560" y="298">&gt; Managed and self-managed Kubernetes</text>
+      <text x="560" y="318">&gt; CI/CD pipelines and GitOps delivery</text>
+      <text x="560" y="338">&gt; Infrastructure as code and configuration</text>
+      <text x="560" y="358">&gt; Monitoring, alerting and on-call</text>
+    </g>
+
+  </g>
+</svg>
