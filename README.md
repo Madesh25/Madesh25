@@ -10,12 +10,12 @@ and banking platforms. Open to opportunities in Poland and the EU.
 
 ### Tech Stack
 
-**Cloud** — AWS · Azure · GCP
-**Containers & Orchestration** — Kubernetes (EKS, AKS, GKE, kubeadm, k3s) · Docker · Helm · Harbor
-**CI/CD & GitOps** — Jenkins · Azure DevOps · GitLab CI · Argo CD
-**Infrastructure as Code** — Terraform · Ansible
-**Observability** — Prometheus · Grafana · CloudWatch
-**Systems** — Linux (RHEL, Ubuntu) · Proxmox · Bash · Python
+- **Cloud** — AWS · Azure · GCP
+- **Containers & Orchestration** — Kubernetes (EKS, AKS, GKE, kubeadm, k3s) · Docker · Helm · Harbor
+- **CI/CD & GitOps** — Jenkins · Azure DevOps · GitLab CI · Argo CD
+- **Infrastructure as Code** — Terraform · Ansible
+- **Observability** — Prometheus · Grafana · CloudWatch
+- **Systems** — Linux (RHEL, Ubuntu) · Proxmox · Bash · Python
 
 ---
 
