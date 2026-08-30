@@ -3,8 +3,8 @@
 <h3 align="center">Automating infrastructure and running cloud-native platforms across AWS, Azure and GCP</h3>
 
 <p align="center">
-  <a href="https://madesh.online"><img src="https://img.shields.io/badge/Portfolio-madesh.online-00ff6a?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/madeshwaranm"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.madesh.online"><img src="https://img.shields.io/badge/Portfolio-madesh.online-00ff6a?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/madesh-waran-m"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:madeshwaran.manikam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
