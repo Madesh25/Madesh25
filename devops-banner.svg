@@ -1,0 +1,72 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020806"/>
+    <stop offset="1" stop-color="#06110b"/>
+  </linearGradient>
+  <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#39ff88"/>
+    <stop offset="1" stop-color="#00d95f"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#19e86a" opacity=".25"/>
+  </pattern>
+</defs>
+<rect width="1200" height="330" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="16" fill="url(#dots)"/>
+<rect x="16" y="16" width="1168" height="298" rx="12" fill="none" stroke="#16d85f" stroke-opacity=".55"/>
+<rect x="28" y="28" width="1144" height="274" rx="10" fill="#000" fill-opacity=".28" stroke="#0d7c3b" stroke-opacity=".45"/>
+
+<!-- terminal controls -->
+<circle cx="52" cy="52" r="6" fill="#39ff88"/><circle cx="72" cy="52" r="6" fill="#f5c542"/><circle cx="92" cy="52" r="6" fill="#ff4d4d"/>
+<text x="115" y="57" fill="#5cff9b" font-family="monospace" font-size="14">Madesh25 / README.md</text>
+
+<!-- left content -->
+<text x="62" y="116" fill="#39ff88" font-family="monospace" font-size="38" font-weight="700">Madeshwaran M</text>
+<text x="62" y="145" fill="#e8fff0" font-family="monospace" font-size="16">DevOps Engineer | Kubernetes | Terraform | CI/CD</text>
+<line x1="62" y1="165" x2="455" y2="165" stroke="#20e96f" stroke-width="2"/>
+<text x="62" y="193" fill="#d7e8dd" font-family="monospace" font-size="15">&gt; Automating infrastructure and running</text>
+<text x="62" y="216" fill="#d7e8dd" font-family="monospace" font-size="15">&gt; cloud-native platforms across AWS &amp; GCP</text>
+
+<!-- buttons -->
+<rect x="62" y="242" width="142" height="38" rx="5" fill="#07150d" stroke="#20e96f"/>
+<text x="82" y="267" fill="#39ff88" font-family="monospace" font-size="14">&gt; PORTFOLIO</text>
+<rect x="216" y="242" width="142" height="38" rx="5" fill="#07150d" stroke="#25c9ff"/>
+<text x="236" y="267" fill="#25c9ff" font-family="monospace" font-size="14">&gt; LINKEDIN</text>
+<rect x="370" y="242" width="112" height="38" rx="5" fill="#07150d" stroke="#ff4d4d"/>
+<text x="390" y="267" fill="#ff6969" font-family="monospace" font-size="14">&gt; EMAIL</text>
+
+<!-- right DevOps graphic -->
+<g stroke="#39ff88" fill="none" stroke-width="2" opacity=".9">
+  <path d="M700 85 L820 85 L880 135 L1040 135"/>
+  <path d="M760 245 L840 190 L940 190 L1060 90"/>
+  <path d="M900 75 L900 245"/>
+  <circle cx="700" cy="85" r="5" fill="#39ff88"/><circle cx="820" cy="85" r="5" fill="#39ff88"/>
+  <circle cx="880" cy="135" r="5" fill="#39ff88"/><circle cx="1040" cy="135" r="5" fill="#39ff88"/>
+</g>
+
+<!-- Kubernetes-style hex -->
+<polygon points="720,118 755,138 755,178 720,198 685,178 685,138" fill="#06130b" stroke="#39ff88" stroke-width="3" filter="url(#glow)"/>
+<circle cx="720" cy="158" r="18" stroke="#39ff88" stroke-width="2"/>
+<path d="M720 132v52M694 146l52 24M694 170l52-24" stroke="#39ff88" stroke-width="2"/>
+
+<!-- cloud -->
+<path d="M815 119c0-19 15-34 34-34 8 0 15 3 21 7 7-18 24-30 44-30 27 0 49 21 49 48h7c16 0 29 13 29 29s-13 29-29 29H850c-19 0-35-15-35-34 0-7 0-10 0-15z"
+ fill="#06130b" stroke="#39ff88" stroke-width="3" filter="url(#glow)"/>
+
+<!-- infinity/CI-CD symbol -->
+<path d="M835 206 C805 175 760 181 760 215 C760 249 805 255 835 224 L885 176 C915 147 960 153 960 187 C960 221 915 227 885 196 L835 146"
+ fill="none" stroke="url(#green)" stroke-width="10" stroke-linecap="round" filter="url(#glow)"/>
+
+<!-- Terraform-like mark -->
+<g transform="translate(1015 205)" fill="#39ff88" opacity=".9">
+ <path d="M0 0l25 14v29L0 29z"/><path d="M30 17l25 14v29L30 46z"/><path d="M30 -16l25 14v29L30 13z"/>
+</g>
+
+<!-- code window -->
+<rect x="1005" y="55" width="125" height="70" rx="7" fill="#06130b" stroke="#39ff88" stroke-width="2"/>
+<circle cx="1020" cy="69" r="3" fill="#39ff88"/><circle cx="1031" cy="69" r="3" fill="#f5c542"/><circle cx="1042" cy="69" r="3" fill="#ff4d4d"/>
+<text x="1020" y="91" fill="#39ff88" font-family="monospace" font-size="12">&gt; kubectl</text>
+<text x="1020" y="108" fill="#39ff88" font-family="monospace" font-size="12">&gt; terraform</text>
+</svg>
