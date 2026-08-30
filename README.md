@@ -7,7 +7,9 @@ Building and running cloud infrastructure across AWS, Azure and GCP. Currently a
 Open to opportunities in Poland and the wider EU.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-madesh.online-2ea043?style=flat-square&logo=googlechrome&logoColor=white)](https://www.madesh.online)
+&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-madesh--waran--m-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madesh-waran-m)
+&nbsp;&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-madeshwaran.manikam%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:madeshwaran.manikam@gmail.com)
 
 ---
