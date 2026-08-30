@@ -3,11 +3,12 @@
 <h3 align="center">Automating infrastructure and running cloud-native platforms across AWS, Azure and GCP</h3>
 
 <p align="center">
-  <a href="https://www.madesh.online"><img src="https://img.shields.io/badge/Portfolio-00ff6a?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/madesh-waran-m"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:madeshwaran.manikam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.madesh.online"><img height="45" src="https://img.shields.io/badge/%20%20%20PORTFOLIO%20%20%20-00ff6a?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/madesh-waran-m"><img height="45" src="https://img.shields.io/badge/%20%20%20LINKEDIN%20%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:madeshwaran.manikam@gmail.com"><img height="45" src="https://img.shields.io/badge/%20%20%20EMAIL%20%20%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
----
 
 ## 👨‍💻 About Me
 
