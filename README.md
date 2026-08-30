@@ -128,4 +128,4 @@ The goal is not to collect tools. The goal is to demonstrate that I can **build,
 CODE → AUTOMATE → MONITOR → IMPROVE → REPEAT
 ```
 
-</div>
+</dive
