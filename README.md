@@ -1,57 +1,31 @@
-# Madeshwaran M
+<p align="center">
+  <img src="./profile.svg" width="100%" alt="Madeshwaran M — DevOps Engineer. Kubernetes, Terraform, CI/CD. 4+ years of professional experience, 3+ in DevOps, building and running cloud infrastructure across AWS, Azure and GCP. Currently at Xerago in Chennai, delivering on-premises to cloud migrations for enterprise MarTech and banking platforms. Open to relocation to Poland and the EU." />
+</p>
 
-`DevOps Engineer` · `Kubernetes` · `Terraform` · `CI/CD` · `AWS` · `Azure` · `GCP`
+<p align="center">
+  <a href="https://www.madesh.online"><img height="34" src="https://img.shields.io/badge/PORTFOLIO-madesh.online-3ae67a?style=for-the-badge&logo=googlechrome&logoColor=3ae67a&labelColor=0a1410" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/madesh-waran-m"><img height="34" src="https://img.shields.io/badge/LINKEDIN-madesh--waran--m-3ae67a?style=for-the-badge&logo=linkedin&logoColor=3ae67a&labelColor=0a1410" /></a>
+  &nbsp;
+  <a href="mailto:madeshwaran.manikam@gmail.com"><img height="34" src="https://img.shields.io/badge/EMAIL-get_in_touch-3ae67a?style=for-the-badge&logo=gmail&logoColor=3ae67a&labelColor=0a1410" /></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-madesh.online-00e06a?style=for-the-badge&logo=googlechrome&logoColor=00e06a&labelColor=0d1117)](https://www.madesh.online)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-madesh--waran--m-00e06a?style=for-the-badge&logo=linkedin&logoColor=00e06a&labelColor=0d1117)](https://www.linkedin.com/in/madesh-waran-m)
-[![Email](https://img.shields.io/badge/EMAIL-get_in_touch-00e06a?style=for-the-badge&logo=gmail&logoColor=00e06a&labelColor=0d1117)](mailto:madeshwaran.manikam@gmail.com)
+<br>
 
----
+<h3 align="center"><code>$ ls ~/stack/</code></h3>
 
-![](https://img.shields.io/badge/$_cat_~/about.md-00e06a?style=for-the-badge&labelColor=0d1117&color=0d1117)
-
-```diff
-+ name         Madeshwaran M
-+ role         DevOps Engineer
-+ company      Xerago, Chennai
-+ experience   4+ years overall, 3+ in DevOps
-+ clouds       AWS · Azure · GCP
-+ location     Chennai, India (UTC+05:30)
-+ availability open to relocation - Poland and the EU
-```
-
-Building and running cloud infrastructure across AWS, Azure and GCP. Currently at Xerago in
-Chennai, delivering on-premises to cloud migrations for enterprise MarTech and banking platforms
-— assessment through to cutover and post-migration validation.
-
-Hands-on with Kubernetes across EKS, AKS, GKE and self-managed kubeadm clusters, infrastructure
-as code with Terraform and Ansible, and CI/CD pipelines in Jenkins, Azure DevOps, GitLab CI and
-Argo CD. Production on-call and observability experience.
-
----
-
-![](https://img.shields.io/badge/$_ls_~/stack/-00e06a?style=for-the-badge&labelColor=0d1117&color=0d1117)
-
-**Cloud & orchestration**
-
-[![](https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker&theme=dark)](https://skillicons.dev)
-
-**CI/CD & infrastructure as code**
-
-[![](https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,terraform,ansible&theme=dark)](https://skillicons.dev)
-
-**Observability & systems**
-
-[![](https://skillicons.dev/icons?i=grafana,prometheus,linux,bash,python&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,ansible&theme=dark" /></a>
+  <br><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=jenkins,gitlab,githubactions,grafana,prometheus,linux,python&theme=dark" /></a>
+</p>
 
 ```diff
-+ also   Helm · Harbor · Argo CD · kubeadm · k3s · Proxmox
++ also   Helm · Harbor · Argo CD · kubeadm · k3s · Proxmox · Bash
 + data   Oracle · PostgreSQL · MySQL · MS SQL
 ```
 
----
-
-![](https://img.shields.io/badge/$_cat_~/now.txt-00e06a?style=for-the-badge&labelColor=0d1117&color=0d1117)
+<h3 align="center"><code>$ cat ~/now.txt</code></h3>
 
 ```diff
 + Studying for the Certified Kubernetes Administrator (CKA) exam
@@ -59,6 +33,6 @@ Argo CD. Production on-call and observability experience.
 + Writing up homelab and platform notes at www.madesh.online
 ```
 
----
-
-<sub>Chennai, India · UTC+05:30 · Open to relocation</sub>
+<p align="center">
+  <sub>Chennai, India · UTC+05:30 · Open to relocation</sub>
+</p>
