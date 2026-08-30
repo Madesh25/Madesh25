@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Madeshwaran M - DevOps Engineer">
+  <defs>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ff6a"/>
+      <stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#12261b" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="300" rx="10" fill="#09090b"/>
+  <rect width="1000" height="300" rx="10" fill="url(#grid)"/>
+  <rect x="1" y="1" width="998" height="298" rx="10" fill="none" stroke="#00ff6a" stroke-opacity="0.35" stroke-width="2"/>
+
+  <rect x="1" y="1" width="998" height="34" rx="10" fill="#0d1a12"/>
+  <rect x="1" y="24" width="998" height="12" fill="#0d1a12"/>
+  <circle cx="26" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="46" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="66" cy="18" r="5" fill="#00ff6a"/>
+  <text x="92" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#5c8c6f">madesh@portfolio:~$ whoami</text>
+  <line x1="1" y1="35" x2="999" y2="35" stroke="#00ff6a" stroke-opacity="0.3" stroke-width="1"/>
+
+  <text x="50" y="115" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="46" font-weight="700" fill="url(#nameGrad)" filter="url(#glow)">MADESHWARAN M</text>
+  <text x="52" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#00d4ff">DevOps Engineer  |  Kubernetes  |  Terraform  |  CI/CD</text>
+  <line x1="50" y1="166" x2="620" y2="166" stroke="#00ff6a" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="50" y="194" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#a1a1aa">Automating infrastructure and running cloud-native platforms</text>
+  <text x="50" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#a1a1aa">across <tspan fill="#00ff6a">AWS</tspan>, <tspan fill="#00ff6a">Azure</tspan> and <tspan fill="#00ff6a">GCP</tspan></text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <rect x="50" y="238" width="140" height="30" rx="4" fill="none" stroke="#00ff6a" stroke-opacity="0.5"/>
+    <text x="64" y="257" font-size="12" fill="#00ff6a">4+ YRS EXPERIENCE</text>
+    <rect x="204" y="238" width="128" height="30" rx="4" fill="none" stroke="#00ff6a" stroke-opacity="0.5"/>
+    <text x="218" y="257" font-size="12" fill="#00ff6a">3+ YRS DEVOPS</text>
+    <rect x="346" y="238" width="112" height="30" rx="4" fill="none" stroke="#00d4ff" stroke-opacity="0.5"/>
+    <text x="360" y="257" font-size="12" fill="#00d4ff">MULTI-CLOUD</text>
+    <rect x="472" y="238" width="148" height="30" rx="4" fill="none" stroke="#00d4ff" stroke-opacity="0.5"/>
+    <text x="486" y="257" font-size="12" fill="#00d4ff">OPEN TO POLAND / EU</text>
+  </g>
+
+  <g transform="translate(800, 155)" opacity="0.9">
+    <path d="M -62 0 a 31 31 0 1 1 62 0 a 31 31 0 1 0 62 0 a 31 31 0 1 0 -62 0 a 31 31 0 1 1 -62 0 z" fill="none" stroke="#00ff6a" stroke-width="3" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(800, 72)" opacity="0.85">
+    <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <circle cx="0" cy="0" r="6" fill="none" stroke="#00d4ff" stroke-width="2"/>
+    <g stroke="#00d4ff" stroke-width="2">
+      <line x1="0" y1="-6" x2="0" y2="-18"/>
+      <line x1="5" y1="3" x2="16" y2="9"/>
+      <line x1="-5" y1="3" x2="-16" y2="9"/>
+    </g>
+  </g>
+
+  <g stroke="#00ff6a" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M 700 60 L 730 60 L 730 155"/>
+    <path d="M 700 240 L 730 240 L 730 200"/>
+    <circle cx="700" cy="60" r="3" fill="#00ff6a"/>
+    <circle cx="700" cy="240" r="3" fill="#00ff6a"/>
+  </g>
+
+  <g fill="#00ff6a" opacity="0.5">
+    <circle cx="930" cy="230" r="2"/>
+    <circle cx="960" cy="250" r="2"/>
+    <circle cx="900" cy="255" r="2"/>
+    <circle cx="945" cy="90" r="2"/>
+    <circle cx="670" cy="120" r="2"/>
+  </g>
+</svg>
